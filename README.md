@@ -55,7 +55,7 @@ My goal is to build products that combine **strong engineering practices with ex
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradneshVedpathak&layout=compact&theme=dark&hide_border=true"/>
+<img height="200" width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradneshVedpathak&layout=compact&theme=dark&hide_border=true"/>
 
 </p>
 
