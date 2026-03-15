@@ -62,23 +62,22 @@ My goal is to build products that combine **strong engineering practices with ex
 <p align="center">
 
 <a href="https://github.com/PradneshVedpathak">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" style="margin: 8px;" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" style="margin: 8;" />
 </a>
 
 <a href="https://linkedin.com/in/pradneshvedpathak">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="margin: 8px;" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="margin: 8;" />
 </a>
 
 <a href="https://x.com/pradnesh_sv">
-<img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x" style="margin: 8px;" />
+<img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x" style="margin: 8;" />
 </a>
 
 <a href="https://stackoverflow.com/users/16022126">
-<img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" style="margin: 8px;" />
+<img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" style="margin: 8;" />
 </a>
 
 </p>
----
 
 # 🧠 More About Me
 
