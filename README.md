@@ -4,10 +4,6 @@
 Web Developer | Software Engineer | Angular • React • TypeScript
 </h3>
 
-<p align="center">
-Building scalable web applications and clean user interfaces.
-</p>
-
 ---
 
 ## 👨‍💻 Professional Summary
@@ -55,7 +51,7 @@ My goal is to build products that combine **strong engineering practices with ex
 
 <p align="center">
 
-<img height="200" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradneshVedpathak&layout=compact&theme=dark&hide_border=true"/>
+<img height="220" width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradneshVedpathak&layout=compact&theme=dark&hide_border=true"/>
 
 </p>
 
@@ -69,13 +65,19 @@ My goal is to build products that combine **strong engineering practices with ex
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
+&nbsp;&nbsp;&nbsp;
+
 <a href="https://linkedin.com/in/pradneshvedpathak">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+&nbsp;&nbsp;&nbsp;
+
 <a href="https://x.com/pradnesh_sv">
 <img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://stackoverflow.com/users/16022126">
 <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
