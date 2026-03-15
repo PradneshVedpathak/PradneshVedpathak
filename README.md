@@ -38,31 +38,11 @@ My goal is to build products that combine **strong engineering practices with ex
 
 <td width="33%" valign="top">
 
-### UI Libraries
-
-<p>
-<img src="https://skillicons.dev/icons?i=materialui" />
-</p>
-
-- Angular Material  
-- PrimeNG  
-- Material UI  
-
-</td>
-
-<td width="33%" valign="top">
-
 ### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
 </p>
-
-- Git  
-- GitHub  
-- VS Code  
-- Postman  
-- Chrome DevTools  
 
 </td>
 
@@ -74,8 +54,6 @@ My goal is to build products that combine **strong engineering practices with ex
 # 📊 GitHub Activity
 
 <p align="center">
-
-<img height="170" src="https://streak-stats.demolab.com?user=PradneshVedpathak&theme=dark&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradneshVedpathak&layout=compact&theme=dark&hide_border=true"/>
 
@@ -118,7 +96,7 @@ My goal is to build products that combine **strong engineering practices with ex
 ---
 
 <p align="center">
-⭐ I believe great software combines <b>clarity, performance, and user experience.</b>
+⭐ I believe great software combines <b>clarity, performance, and user experience. ⭐</b>
 </p>
 
 <p align="center">
