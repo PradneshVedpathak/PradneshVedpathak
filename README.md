@@ -57,6 +57,18 @@ My goal is to build products that combine **strong engineering practices with ex
 
 ---
 
+
+
+# 🧠 More About Me
+
+- Passionate about building **clean and scalable frontend architectures**
+- Interested in **UI engineering and component-based design systems**
+- Focused on writing **maintainable and high-performance code**
+- Continuously learning new technologies in the **JavaScript ecosystem**
+- Currently exploring **backend development and system design**
+
+---
+
 # 🌐 Connect With Me
 
 <p align="center">
@@ -78,14 +90,6 @@ My goal is to build products that combine **strong engineering practices with ex
 </a>
 
 </p>
-
-# 🧠 More About Me
-
-- Passionate about building **clean and scalable frontend architectures**
-- Interested in **UI engineering and component-based design systems**
-- Focused on writing **maintainable and high-performance code**
-- Continuously learning new technologies in the **JavaScript ecosystem**
-- Currently exploring **backend development and system design**
 
 ---
 
