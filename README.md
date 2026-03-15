@@ -72,7 +72,53 @@ My goal is to build products that combine **strong engineering practices with ex
 
 </p>
 
-### Alternative (if stats fail)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=github_dark" />
 
-Sometimes GitHub stat services stop working temporarily.  
-If that happens, you can replace the language card with:
+
+
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/YOUR_TWITTER">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+
+<a href="https://stackoverflow.com/users/YOUR_ID">
+<img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+</a>
+
+<a href="https://dev.to/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=white"/>
+</a>
+
+<a href="https://medium.com/@YOUR_USERNAME">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 🧠 More About Me
+
+- Passionate about building **clean and scalable frontend architectures**
+- Interested in **UI/UX engineering and component design systems**
+- Enjoy solving real-world problems through software
+- Constantly exploring new tools and frameworks in the JavaScript ecosystem
+- Currently learning deeper **backend architecture and system design**
+
+---
+
+⭐ I believe good software combines **clarity, performance, and user experience**.
