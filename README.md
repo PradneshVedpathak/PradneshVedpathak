@@ -20,7 +20,7 @@ My goal is to build products that combine **strong engineering practices with ex
 
 # 🚀 Tech Stack
 
-<table>
+<table align="center">
 <tr>
 <td width="33%" valign="top">
 
