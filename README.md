@@ -1,5 +1,4 @@
 <h1 align="center">Pradnesh Vedpathak</h1>
-
 <h3 align="center">
 Web Developer | Software Engineer | Angular • React • TypeScript
 </h3>
